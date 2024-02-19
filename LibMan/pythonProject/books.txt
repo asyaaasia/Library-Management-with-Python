@@ -1,0 +1,4 @@
+albaya mektup yok,Gabriel García Márquez,1961,80
+atesten gomlek,halide edip adivar,1922,224
+kitap1,irem naz demir,2024,200
+kitap2,asya rifatoglu,2024,300
